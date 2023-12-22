@@ -3,6 +3,7 @@
   * Command name - internsctl
   * Command version - v0.1.0
   * Done Both Section A & B
+  * Private Repo Link: https://github.com/ShubhamKJ123/internsctl.git
     
 # # Round -2 Code
 * URL: https://icy-sand-015e02f10.4.azurestaticapps.net
