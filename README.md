@@ -6,7 +6,7 @@
   * Repo Link: https://github.com/ShubhamKJ123/internsctl.git
     
 # # Round -2 Code
-* URL: https://icy-sand-015e02f10.4.azurestaticapps.net
+* Azure cloud URL: https://icy-sand-015e02f10.4.azurestaticapps.net
 * <b>Frontend used - HTML, CSS, JAVASCRIPT</b>
 * <b>Backend used - JAVA (JSP-SERVLET-JDBC-MySQL)</b>
 * <b>Web host</b> Project on <b>Microsoft Azure Cloud</b>
