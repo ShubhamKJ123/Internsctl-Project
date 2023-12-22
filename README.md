@@ -1,6 +1,14 @@
-# Login-and-Registration-using-JSP-SERVLET-JDBC-MySQL
-
+# # Round-1 Code is above on folder having name "Round1_code"
+  * Create a Linux command via bash script as per the instructions in <b>Ubuntu</b>.
+  * Command name - internsctl
+  * Command version - v0.1.0
+  * Done Both Section A & B
+    
+# # Round -2 Code
 * URL: https://icy-sand-015e02f10.4.azurestaticapps.net
+* <b>Frontend used - HTML, CSS, JAVASCRIPT</b>
+* <b>Backend used - JAVA (JSP-SERVLET-JDBC-MySQL)</b>
+* <b>Web host</b> Project on <b>Microsoft Azure Cloud</b>
 
 * The project will be a Web-based project to provide a complete Real-Time scenario of the <b>Secure User 
 Authentication</b>.
